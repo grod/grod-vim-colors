@@ -23,7 +23,7 @@ hi StatusLineNC ctermfg=253 ctermbg=240 cterm=NONE guifg=#d7d7d7 guibg=#565656 g
 hi Pmenu ctermfg=244 ctermbg=NONE cterm=NONE guifg=#838383 guibg=NONE gui=NONE
 hi PmenuSel ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#494949 gui=NONE
 hi IncSearch ctermfg=235 ctermbg=41 cterm=NONE guifg=#222222 guibg=#00cc33 gui=NONE
-hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
+hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=#222222 guibg=#00cc33 gui=underline
 hi Directory ctermfg=45 ctermbg=NONE cterm=NONE guifg=#00ccff guibg=NONE gui=NONE
 hi Folded ctermfg=241 ctermbg=235 cterm=NONE guifg=#666666 guibg=#222222 gui=NONE
 
@@ -45,12 +45,12 @@ hi Function ctermfg=15 ctermbg=234 cterm=NONE guifg=#ffffff guibg=#1c1c1c gui=NO
 hi Identifier ctermfg=170 ctermbg=NONE cterm=NONE guifg=#ce58e7 guibg=NONE gui=NONE
 hi Keyword ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fb8713 guibg=NONE gui=NONE
 hi Label ctermfg=41 ctermbg=NONE cterm=NONE guifg=#00cc33 guibg=NONE gui=NONE
-hi NonText ctermfg=234 ctermbg=235 cterm=NONE guifg=#1c1c1c guibg=#2b2b2b gui=NONE
+hi NonText ctermfg=234 ctermbg=235 cterm=NONE guifg=#aaaaaa guibg=#2b2b2b gui=NONE
 hi Number ctermfg=45 ctermbg=NONE cterm=NONE guifg=#00ccff guibg=NONE gui=NONE
 hi Operator ctermfg=250 ctermbg=NONE cterm=NONE guifg=#bebebe guibg=NONE gui=NONE
 hi PreProc ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fb8713 guibg=NONE gui=NONE
 hi Special ctermfg=253 ctermbg=NONE cterm=NONE guifg=#d7d7d7 guibg=NONE gui=NONE
-hi SpecialKey ctermfg=234 ctermbg=236 cterm=NONE guifg=#1c1c1c guibg=#343434 gui=NONE
+hi SpecialKey ctermfg=234 ctermbg=236 cterm=NONE guifg=#1c1c1c guibg=#ff4444 gui=NONE
 hi Statement ctermfg=208 ctermbg=NONE cterm=NONE guifg=#fb8713 guibg=NONE gui=NONE
 hi StorageClass ctermfg=170 ctermbg=NONE cterm=NONE guifg=#ce58e7 guibg=NONE gui=NONE
 hi String ctermfg=41 ctermbg=NONE cterm=NONE guifg=#00cc33 guibg=NONE gui=NONE
